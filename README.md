@@ -5,7 +5,7 @@ Ana Luísa de Souza Paraguassu - 231003442
 
 **Ambiente de Desenvolvimento:**  
 - Sistema Operacional: Linux via WSL (Windows Subsystem for Linux)
-- Compilador: GCC, utilizando o comando `g++` por se tratar de código em C++
+- Compilador: GCC 13.3.0, utilizando o comando `g++` por se tratar de código em C++
 
 ---
 
